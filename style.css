@@ -19,7 +19,7 @@ a {
 	color: black;
 	z-index: 2;
 	width: 100%;
-	background: #e0dede
+	background: black;
 }
 .bg-color {
 	background: #054b0b;
@@ -60,10 +60,10 @@ a {
 	justify-content: left;
 }
 .fixed-top {
-	background: #b80818;
+	background: black;
 }
 nav .social-media a {
-	color: #fff;
+	color: black;
 	font-size: 25px;
 	top: 15px;
 	position: relative;
@@ -73,7 +73,7 @@ nav .social-media a {
 @media screen and (max-width:768px) {
 	.navbar-collapse {
 		position: absolute;
-		background: #b80818;
+		background: black;
 		width: 100%;
 		left: 0px;
 		top: 65px;
@@ -87,7 +87,7 @@ nav .social-media a {
 		font-size: 20px;
 	}
 	nav .social-media a {
-		color: #fff;
+		color: black;
 		font-size: 25px;
 		top: 12px;
 		position: relative;
