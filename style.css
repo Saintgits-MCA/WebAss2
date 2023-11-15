@@ -60,10 +60,10 @@ a {
 	justify-content: left;
 }
 .fixed-top {
-	background: black;
+	background: darkred;
 }
 nav .social-media a {
-	color: black;
+	color: darkred;
 	font-size: 25px;
 	top: 15px;
 	position: relative;
@@ -73,7 +73,7 @@ nav .social-media a {
 @media screen and (max-width:768px) {
 	.navbar-collapse {
 		position: absolute;
-		background: black;
+		background: darkred;
 		width: 100%;
 		left: 0px;
 		top: 65px;
@@ -87,7 +87,7 @@ nav .social-media a {
 		font-size: 20px;
 	}
 	nav .social-media a {
-		color: black;
+		color: white;
 		font-size: 25px;
 		top: 12px;
 		position: relative;
